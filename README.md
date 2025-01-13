@@ -16,8 +16,10 @@ Techno Study project. Domain -> (https://www.akakce.com/)
 • Murat ENGİNEL -- Tester
 
 • Fatih GÜVENÇ -- Tester
--
 
+
+
+-
 # akakce_Test
 
 ## User Stories
