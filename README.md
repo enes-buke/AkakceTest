@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # akakce_Test
 
 ## User Stories
@@ -13,3 +14,23 @@
 | US_07 | Account Deletion | As a user, I should be able to delete my account. This ensures the protection of my personal data. | When the user is logged into their account, they should be able to delete their account from the system. During the account deletion process, the account should be successfully deleted when the correct password is entered. | The user's account (user's email address and password) must be successfully created and verified. Account deletion cannot be performed without logging into the account to be deleted. |
 
 
+=======
+Techno Study
+-
+Techno Study project. Domain -> (https://www.akakce.com/)
+
+
+
+👾 Collaborators
+
+
+• Enes BÜKE -- Team Lead
+
+• Alperen ŞANLI -- Tester
+
+• Sinem YURDUSEVER -- Tester
+
+• Murat ENGİNEL -- Tester
+
+• Fatih GÜVENÇ -- Tester
+>>>>>>> origin/master
