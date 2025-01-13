@@ -1,4 +1,3 @@
-=======
 Techno Study
 -
 Techno Study project. Domain -> (https://www.akakce.com/)
