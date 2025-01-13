@@ -17,7 +17,7 @@ Techno Study project. Domain -> (https://www.akakce.com/)
 
 • Fatih GÜVENÇ -- Tester
 
-\\\\
+----------------------------------------------
 
 
 # akakce_Test
